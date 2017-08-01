@@ -6,6 +6,7 @@
 [![coverage][cover]][cover-url]
 [![licenses][licenses]][licenses-url]
 
+
 <div align="center">
   <a href="https://github.com/webpack/webpack">
     <img width="200" heigth="200" src="https://webpack.js.org/assets/icon-square-big.svg">
